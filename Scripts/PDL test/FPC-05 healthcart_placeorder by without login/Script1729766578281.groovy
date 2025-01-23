@@ -34,19 +34,19 @@ WebUI.click(findTestObject('FPC-05 healthcart _place order by without login/Page
 
 WebUI.delay(10)
 
-WebUI.waitForElementPresent(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/img_Style_tile-image productTileImage'), 
+WebUI.waitForElementPresent(findTestObject('FPC-05_-image mouse over/Page_Find amazing products/img_Style_tile-image productTileImage'), 
     10)
 
-WebUI.mouseOver(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/img_Style_tile-image productTileImage'))
+WebUI.mouseOver(findTestObject('FPC-05_-image mouse over/Page_Find amazing products/img_Style_tile-image productTileImage'))
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/a_ADD TO CART'), 
+WebUI.verifyElementPresent(findTestObject('FPC-05_-image mouse over/Page_Find amazing products/a_ADD TO CART'), 
     10)
 
-WebUI.verifyElementClickable(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/a_ADD TO CART'))
+WebUI.verifyElementClickable(findTestObject('FPC-05_-image mouse over/Page_Find amazing products/a_ADD TO CART'))
 
-WebUI.doubleClick(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/a_ADD TO CART'))
+WebUI.doubleClick(findTestObject('FPC-05_-image mouse over/Page_Find amazing products/a_ADD TO CART'))
 
 WebUI.waitForElementVisible(findTestObject('FPC-05 healthcart _place order by without login/Page_Find amazing products in Hair Care tod/a_Checkout'), 
     2)

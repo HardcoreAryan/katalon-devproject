@@ -61,7 +61,7 @@ WebUI.delay(10)
 //WebUI.selectOptionByValue(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/select_Relevance                           _8069d7'), 
 //   'https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Search-ShowAjax?cgid=health-and-beauty&srule=discount&start=0&sz=60', 
 //   true)
-WebUI.mouseOver(findTestObject('FPC-06 dropdwon image/Page_Find amazing products in Health Beauty 1/img_Refine by Style fragrance_tile-image productTileImage'))
+WebUI.mouseOver(findTestObject('FPC-06 dropdwon image/Page_Find amazing products in Health Beauty 1/img_Refin_tile-image productTileImage'))
 
 WebUI.verifyElementPresent(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/a_ADD TO CART'), 
     10)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Refine by Style fragrance_tile-image productTileImage</name>
+   <name>img_Refin_tile-image productTileImage</name>
    <tag></tag>
    <elementGuidId>830a8bc4-eb62-44a5-b094-140607a0aa5c</elementGuidId>
    <selectorCollection>
