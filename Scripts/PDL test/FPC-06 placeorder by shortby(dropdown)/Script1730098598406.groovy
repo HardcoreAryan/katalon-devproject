@@ -57,7 +57,7 @@ for (WebElement e1 : value) {
 
 WebUI.delay(10)
 
-//WebUI.doubleClick(findTestObject('dropdown/Page_Find amazing products in Health Beauty/select_Relevance                                                                Top Rated                                                                Price (lowest first)'))
+//WebUI.doubleClick(findTestObject('null'))
 //WebUI.selectOptionByValue(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/select_Relevance                           _8069d7'), 
 //   'https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Search-ShowAjax?cgid=health-and-beauty&srule=discount&start=0&sz=60', 
 //   true)
