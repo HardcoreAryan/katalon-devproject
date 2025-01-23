@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remove</name>
+   <tag></tag>
+   <elementGuidId>9b1377e1-35f9-42c3-a33f-f7cf0a329b62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-main']/div/div/div[10]/div[8]/div[2]/div[3]/div/div/div/div[2]/div/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.product-info.live-tv-line-item.js-live-tv-item.uuid-2a488d3f72fc32723754f3d670 > div.d-flex > div.col-5.col-lg-6 > div.row > div.col-lg-9.col-xs-8.d-none.d-lg-block > div.item-attributes.d-flex.flex-column > div.d-flex > div.d-none.d-lg-block.qty-rbtn > button.remove-btn.cart-delete-confirmation-btn.btn.btn-light > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Remove product Premium Madagascar Pink Sapphire and White Zircon Elongated Ring in Vermeil Rose Gold and Platinum Over Sterling Silver (Size 9.0) 4.25 ctw&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e61c3ea-fcf6-4467-822f-01a23d861b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9e6923c9-7df1-4960-af9c-19d0f9ceb9c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>a95f8e52-807b-4400-af2e-f18023ca6928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-main&quot;)/div[@class=&quot;row align-items-sm-start&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;checkout-forms-container&quot;]/div[@class=&quot;cart-items checkout-block checkout-block-items&quot;]/div[@class=&quot;checkout-block-items-container&quot;]/div[@class=&quot;card product-info   live-tv-line-item js-live-tv-item uuid-2a488d3f72fc32723754f3d670&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;col-5 col-lg-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xs-8 d-none d-lg-block&quot;]/div[@class=&quot;item-attributes d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;d-none d-lg-block qty-rbtn&quot;]/button[@class=&quot;remove-btn cart-delete-confirmation-btn btn btn-light&quot;]/span[1]</value>
+      <webElementGuid>e3169f2b-f1fb-46fb-8407-a89d2d0da01d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-main']/div/div/div[10]/div[8]/div[2]/div[3]/div/div/div/div[2]/div/div/div[2]/button/span</value>
+      <webElementGuid>748e26d9-8e52-45e3-ae27-a6e6437015a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live TV item'])[2]/following::span[3]</value>
+      <webElementGuid>df3764cc-1d89-4c38-88fc-e68aa7477426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='** PO Box Orders will be shipped through DHL'])[3]/preceding::span[1]</value>
+      <webElementGuid>e327431c-570f-4645-8e1d-9b42444bac01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div[2]/button/span</value>
+      <webElementGuid>44454027-240a-4501-8be3-94f2c8b29a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>211b35ad-465a-457a-8b1a-f277c7a5bad0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

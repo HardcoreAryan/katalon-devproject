@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RA-02 LIVETV_place order by _fastbuy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3bfb3bbe-901f-4ccc-8e9d-f37ab60503dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aabebbaa-9576-485e-ae91-a6537932e67f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fef5f5cb-1b0d-4927-9a15-0410334bb678</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john@buyer.com'</defaultValue>
+      <description></description>
+      <id>aabebbaa-9576-485e-ae91-a6537932e67f</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>fef5f5cb-1b0d-4927-9a15-0410334bb678</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

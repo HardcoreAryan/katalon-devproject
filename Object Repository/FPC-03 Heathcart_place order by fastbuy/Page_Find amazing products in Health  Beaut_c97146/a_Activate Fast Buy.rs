@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Activate Fast Buy</name>
+   <tag></tag>
+   <elementGuidId>291c680f-bca5-4116-95d8-e837babd9c33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#activateFastBuy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='activateFastBuy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Activate Fast Buy&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc6cec38-6a80-41ac-894c-91a951c00253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/on/demandware.store/Sites-SHOP_LC-Site/en_US/FastBuy-MissingInfo</value>
+      <webElementGuid>1314b582-553e-4b1e-9e21-49dbc9ca68d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary fast-buy-modal__button</value>
+      <webElementGuid>7cb4434f-08fb-4c17-a266-f8d0d0e5d321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>activateFastBuy</value>
+      <webElementGuid>9d6aa967-e7e4-4ae3-8a6b-a596b10296d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Activate Fast Buy
+                </value>
+      <webElementGuid>f239f794-ae90-45cd-b09c-3d65217c470f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;activateFastBuy&quot;)</value>
+      <webElementGuid>c77ab921-a191-4409-9962-fd282be7c75d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='activateFastBuy']</value>
+      <webElementGuid>02fb2c00-abb8-473e-b855-a55a5a48fcca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='activateFastBuyModal']/div/div/div[3]/a</value>
+      <webElementGuid>4380d1de-8cdf-4ee3-acc0-68d7d956de48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Activate Fast Buy')]</value>
+      <webElementGuid>b0977b37-46a0-424b-a21e-aac567cea281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHAT IS FAST BUY?'])[1]/following::a[1]</value>
+      <webElementGuid>d046b35e-f3d2-444e-9bc1-35f9f9dcc11f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat with an Expert'])[2]/following::a[1]</value>
+      <webElementGuid>060c2cb7-95db-42bd-9273-e968dca930b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activate Fast Buy']/parent::*</value>
+      <webElementGuid>80e69621-e643-4980-b308-01012e88d63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/on/demandware.store/Sites-SHOP_LC-Site/en_US/FastBuy-MissingInfo')]</value>
+      <webElementGuid>28c43633-bc15-4423-b544-e1145cd9d93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div[3]/a</value>
+      <webElementGuid>abe0824a-66f2-4de7-a7aa-00e0779f8830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/on/demandware.store/Sites-SHOP_LC-Site/en_US/FastBuy-MissingInfo' and @id = 'activateFastBuy' and (text() = '
+                    Activate Fast Buy
+                ' or . = '
+                    Activate Fast Buy
+                ')]</value>
+      <webElementGuid>30c2279d-a0bc-43ce-829f-666afc49af35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

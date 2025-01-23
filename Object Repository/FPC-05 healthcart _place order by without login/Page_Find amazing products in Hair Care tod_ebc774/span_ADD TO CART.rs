@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ADD TO CART</name>
+   <tag></tag>
+   <elementGuidId>a0fda00f-1311-4fe8-a249-2cb8fafc218f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-search-results']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57de4133-d877-4559-8804-add30e176e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4d9015af-5041-403c-9909-70095b7268c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD TO CART</value>
+      <webElementGuid>cdb99a3c-e60f-4452-be05-1a5c6d07de12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-search-results&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-xl-10&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-6 col-lg-4 col-xl-3 product-tile-wrapper&quot;]/div[@class=&quot;product product-listItem&quot;]/div[@class=&quot;product-tile general-tile&quot;]/div[@class=&quot;product-image-tile-body&quot;]/div[@class=&quot;tile-body&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;row actions-row px-2 py-1&quot;]/div[@class=&quot;col-6 text-center cart-wrapper p-0&quot;]/a[@class=&quot;link add-to-cart&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>abe00bb0-9805-4538-87c4-3b8fa5bff5e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-search-results']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/a/span</value>
+      <webElementGuid>cd6d2335-6844-41bd-8524-18392b050b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUICK VIEW'])[1]/following::span[1]</value>
+      <webElementGuid>08fa8b7a-5d1b-48f0-8019-1a8f9ed41f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[2]/following::span[4]</value>
+      <webElementGuid>d8a574fe-fc27-434a-9bc9-147c861dd5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAST BUY'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb1e3185-a926-407a-a4a7-da181b1873e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(180)'])[1]/preceding::span[3]</value>
+      <webElementGuid>c79c7152-117b-4b59-923b-73d3984520d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADD TO CART']/parent::*</value>
+      <webElementGuid>e015cd18-d584-47ec-a43e-0e683c1b2ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a/span</value>
+      <webElementGuid>3952dcf1-f792-41cf-bbef-704446f6c316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ADD TO CART' or . = 'ADD TO CART')]</value>
+      <webElementGuid>aa326c5f-e8a5-428c-bb38-5130bfac3108</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPC-04 healthcart_placeorder by wishlist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db88ba59-15f3-4442-a3cd-aa2fbeb08f72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d176cb9f-dc40-4940-b239-4bfa1a26a4c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7eb43241-963c-4030-be6b-27dea535e07e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john@buyer.com'</defaultValue>
+      <description></description>
+      <id>d176cb9f-dc40-4940-b239-4bfa1a26a4c7</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>7eb43241-963c-4030-be6b-27dea535e07e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

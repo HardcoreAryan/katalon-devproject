@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ADD TO CART_fa fa-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>f62909c5-5dfa-4a9c-9a2f-787a5091907e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-shopping-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-search-results']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b6c7ac1c-6da2-4c42-affe-d0d624c6aedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-shopping-cart</value>
+      <webElementGuid>1ef81573-6f28-4a20-b6cc-9543b775c21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-search-results&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-9 col-xl-10&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-6 col-lg-4 col-xl-3 product-tile-wrapper&quot;]/div[@class=&quot;product product-listItem&quot;]/div[@class=&quot;product-tile general-tile&quot;]/div[@class=&quot;product-image-tile-body&quot;]/div[@class=&quot;tile-body&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;row actions-row px-2 py-1&quot;]/div[@class=&quot;col-6 text-center cart-wrapper p-0&quot;]/a[@class=&quot;link add-to-cart&quot;]/i[@class=&quot;fa fa-shopping-cart&quot;]</value>
+      <webElementGuid>2712e433-b1b1-4a34-8d8a-6e5d4ed2a864</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-search-results']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/a/i</value>
+      <webElementGuid>b0931a5d-0ab3-4a2e-b189-6806aa597ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>3ef88f05-961a-4dfd-b5e7-a0a79883f449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

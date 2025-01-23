@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RA-01 B paypal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a5c92c5-9687-4b8f-9072-20ebb61d34d6</testCaseGuid>
+</TestCaseEntity>

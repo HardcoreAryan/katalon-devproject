@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Place Order</name>
+   <tag></tag>
+   <elementGuidId>cf6dc3dc-d73a-42bf-adf9-4f85412797b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-sm-block.buttons-container.col-9.col-md-12 > button[name=&quot;submit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='submit'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Place Order&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d6be8034-847a-4809-bc63-cc23a26929db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn place-order-btn btn-block submit-payment before-placeOrder js-payment-btn js-place-order-btn</value>
+      <webElementGuid>28223803-2f4e-41d8-bddb-11bb076e9e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>/on/demandware.store/Sites-SHOP_LC-Site/en_US/CheckoutServices-PlaceOrder?cartType=normalproducts</value>
+      <webElementGuid>14207720-d162-465a-a646-59945fe8994f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a9af618c-71e7-4652-b9f6-48477767d2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>da78cfe2-5d69-44d3-aaa9-86614f1d4d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-authenticated-customer</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>85935caf-80d4-4cc5-b0ef-a312ebf48698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Place Order
+</value>
+      <webElementGuid>f9e7a599-102f-446c-9539-ce4a66172958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-main&quot;)/div[@class=&quot;row align-items-sm-start&quot;]/div[@class=&quot;col-sm-4 checkout-right-content right-content-sticky veiled&quot;]/div[@class=&quot;next-step-buttons-container mb-md-4&quot;]/div[@class=&quot;d-sm-block buttons-container col-9 col-md-12&quot;]/button[@class=&quot;btn place-order-btn btn-block submit-payment before-placeOrder js-payment-btn js-place-order-btn&quot;]</value>
+      <webElementGuid>5e872f35-8008-4941-8475-fbf12c7f3e17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='submit'])[4]</value>
+      <webElementGuid>73b0dd37-9708-47e4-a3fb-a6ae8cd14419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-main']/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>11c92a3f-0144-4bbb-a182-cfd17435d1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Budget Pay order Password is mandatory'])[1]/following::button[1]</value>
+      <webElementGuid>36fbd9f6-e152-4a93-8f4c-f381e15e788b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$61.98'])[1]/following::button[1]</value>
+      <webElementGuid>fcbf7004-d3a3-4a11-8061-046ab734b450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a PayPal account'])[1]/preceding::button[1]</value>
+      <webElementGuid>8547c310-000e-416a-a8d8-996202c38bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vantiv.googlepay.error'])[1]/preceding::button[2]</value>
+      <webElementGuid>c98f281c-4066-45de-8cf1-0629c6a0dc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Place Order']/parent::*</value>
+      <webElementGuid>f2ce1a37-805d-4dc4-b66a-eb5546c94690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>42e69c5e-3a30-4c79-b890-b23f8423da47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'submit' and (text() = 'Place Order
+' or . = 'Place Order
+')]</value>
+      <webElementGuid>6c4fa64a-d872-4b74-81ad-fb0a3bf99691</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

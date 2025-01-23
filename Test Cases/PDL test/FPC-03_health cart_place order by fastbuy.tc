@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPC-03_health cart_place order by fastbuy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebd6d178-4ba4-437f-b653-6a340229d321</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd8a2b24-90bf-4c40-908e-99ff204e481e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab973154-aa87-4824-b05c-e685c0b276df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John@buyer.com'</defaultValue>
+      <description></description>
+      <id>bd8a2b24-90bf-4c40-908e-99ff204e481e</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>ab973154-aa87-4824-b05c-e685c0b276df</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

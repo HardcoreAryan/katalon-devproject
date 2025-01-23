@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Live TV_pause fa fa-pause fa-2x</name>
+   <tag></tag>
+   <elementGuidId>20a0e19c-097e-43c2-a8ac-c0689197c3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Vego-custom-bar']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.pause.fa.fa-pause.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.pause</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f05b15db-f1b0-4d47-8ab5-46ebe70080ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pause fa fa-pause fa-2x</value>
+      <webElementGuid>915822a9-68ed-4249-b35e-ff8b9a489e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Vego-custom-bar&quot;)/a[@class=&quot;pause fa fa-pause fa-2x&quot;]</value>
+      <webElementGuid>4cbab988-bce7-48aa-a7dc-438bbaf2d2f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Vego-custom-bar']/a[2]</value>
+      <webElementGuid>f19e9ae4-8f77-4d74-a56f-b03dac284172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>49ec5d15-81b6-49cd-a80f-05b3150e947c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

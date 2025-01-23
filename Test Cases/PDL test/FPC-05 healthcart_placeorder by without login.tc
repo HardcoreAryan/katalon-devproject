@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPC-05 healthcart_placeorder by without login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eda52675-fa17-4db8-9e02-f06c7ee7184f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de6ee820-e91b-45fb-a633-a862ba9102c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41576d81-eff2-443b-9ed9-af06799882d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John@buyer.com'</defaultValue>
+      <description></description>
+      <id>de6ee820-e91b-45fb-a633-a862ba9102c3</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>41576d81-eff2-443b-9ed9-af06799882d1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Wishlist</name>
+   <tag></tag>
+   <elementGuidId>1950d40b-1c04-4a54-9077-efca5105c621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > span.user-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, Addy'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Wishlist&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50e140a1-8a39-4fe4-b8e0-ef74d2cabc8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-message</value>
+      <webElementGuid>3cfdd014-d20a-40b7-b89f-bccbd29b66e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wishlist</value>
+      <webElementGuid>9848c10c-85b7-49c8-bd1b-23eaf308fbaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;veiled&quot;]/body[1]/div[@class=&quot;page&quot;]/header[1]/nav[@class=&quot;nav-header&quot;]/div[@class=&quot;fixed-top stickyHeader&quot;]/div[@class=&quot;container-orignal-LS container header spacing-sm&quot;]/div[@class=&quot;row align-items-center header-nav&quot;]/div[@class=&quot;col-lg-5 col-md-6 col-7 pl-md-4 pr-xs-0&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;wl-header text-center&quot;]/a[1]/span[@class=&quot;user-message&quot;]</value>
+      <webElementGuid>a66d7f1d-ba95-4c75-a6df-d3ca97cc3cb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, Addy'])[2]/following::span[1]</value>
+      <webElementGuid>bea523a4-0c8f-4e14-a2c3-af7844a004e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::span[2]</value>
+      <webElementGuid>0b4ef316-3f58-402c-9e1f-248eb676f7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7035f04-9a44-4a3b-a4a1-c7996d9c5f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>d109ed13-4a18-4bdd-acd5-c037fee4f4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Wishlist' or . = 'Wishlist')]</value>
+      <webElementGuid>37d2217d-6fc3-479e-86c2-ca459fc439dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

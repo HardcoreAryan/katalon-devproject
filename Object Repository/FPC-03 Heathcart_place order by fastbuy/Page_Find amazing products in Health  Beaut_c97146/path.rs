@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>d15d61fb-2559-4bb1-9230-73898a29dff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pushengage-opt-in-9-close > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#pushengage-opt-in-9-close path</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b86e7db7-e5b8-4ac5-82f9-6db01345e44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M10.4583 1.54041L9.45959 0.541664L5.5 4.50125L1.54042 0.541664L0.541672 1.54041L4.50126 5.5L0.541672 9.45958L1.54042 10.4583L5.5 6.49875L9.45959 10.4583L10.4583 9.45958L6.49875 5.5L10.4583 1.54041Z</value>
+      <webElementGuid>6c1ad90d-17c2-4f1d-baac-ddfcc6894fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pushengage-opt-in-9-close&quot;)/svg[1]/path[1]</value>
+      <webElementGuid>6cc94565-9cba-4354-8707-b00b3d830434</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

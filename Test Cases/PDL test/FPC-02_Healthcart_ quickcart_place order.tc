@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPC-02_Healthcart_ quickcart_place order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aaba7a15-9aba-4e28-8bf8-08c94c7478e4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5dbf1976-8d9f-4826-9ee5-cf5b2724abdb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53b50d7e-4fa5-47c4-abf7-356d14eedf90</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john@buyer.com'</defaultValue>
+      <description></description>
+      <id>5dbf1976-8d9f-4826-9ee5-cf5b2724abdb</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>53b50d7e-4fa5-47c4-abf7-356d14eedf90</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RA_04 LiveTv shop24 latest item order place by buy order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f1266d6-e541-4f3f-b881-9a889efc1627</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FPC-06 placeorder by shortby(dropdown)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bb2b3c2-f3ff-442a-b50f-f9cf52c15fe0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef073e1a-6897-43bc-b922-ef957edfa2ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b89ba74-0264-4d62-9638-1462b770c1fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John@buyer.com'</defaultValue>
+      <description></description>
+      <id>ef073e1a-6897-43bc-b922-ef957edfa2ce</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>4b89ba74-0264-4d62-9638-1462b770c1fb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_sold_tile-image productTileImage ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>7e1ddc12-df67-442c-8e22-ae81e10a5b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.product-image-url > img.tile-image.productTileImage.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='liveTvShopLast25ItemGrid']/div/div[2]/div/div[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Austrian Crystal Waterfall Necklace 24 Inches in Silvertone&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b10109be-aa45-44c6-b113-bd3647423e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-image productTileImage ls-is-cached lazyloaded</value>
+      <webElementGuid>9cbfe303-ddc6-4873-802c-6dce1112be48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://image.shoplc.com/products/71/9/7199972/7199972.jpg?w=300&amp;h=300</value>
+      <webElementGuid>597a02bd-6298-413a-b1b5-70d47f4673bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-secondary-image-src</name>
+      <type>Main</type>
+      <value>https://image.shoplc.com/products/71/9/7199972/7199972_1.jpg?w=300&amp;h=300</value>
+      <webElementGuid>ea19695d-b982-4ebf-8e7f-a7037cb2a2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-image-src</name>
+      <type>Main</type>
+      <value>https://image.shoplc.com/products/71/9/7199972/7199972.jpg?w=300&amp;h=300</value>
+      <webElementGuid>fed44c1e-8fad-4c6f-8563-cd0d15336dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Austrian Crystal Waterfall Necklace 24 Inches in Silvertone</value>
+      <webElementGuid>78335da5-29be-4617-8064-c4f139cb6c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Austrian Crystal Waterfall Necklace 24 Inches in Silvertone</value>
+      <webElementGuid>a0f862a3-952e-40fb-b69f-334e415a8eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://image.shoplc.com/products/71/9/7199972/7199972_1.jpg?w=300&amp;h=300</value>
+      <webElementGuid>c0a9d53b-5d0c-4d0c-b024-9f6d1ece06e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;liveTvShopLast25ItemGrid&quot;)/div[@class=&quot;product-tile-wrapper shop-last-tile auction-timer product&quot;]/div[@class=&quot;product-tile d-flex&quot;]/div[@class=&quot;tile-badges-image&quot;]/div[@class=&quot;image-container&quot;]/a[@class=&quot;product-image-url&quot;]/img[@class=&quot;tile-image productTileImage ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>7f408e5e-ef0b-48ab-9567-dc89f712a8b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='liveTvShopLast25ItemGrid']/div/div[2]/div/div[2]/a/img</value>
+      <webElementGuid>42cd4361-c0ba-4c9c-b18b-d1cade3d63ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Austrian Crystal Waterfall Necklace 24 Inches in Silvertone']</value>
+      <webElementGuid>d89da39e-3325-47cf-8d24-d52fda9e8674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a/img</value>
+      <webElementGuid>5f30a7ee-b158-4ea7-9f10-dabfcac44a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Austrian Crystal Waterfall Necklace 24 Inches in Silvertone' and @title = 'Austrian Crystal Waterfall Necklace 24 Inches in Silvertone' and @src = 'https://image.shoplc.com/products/71/9/7199972/7199972_1.jpg?w=300&amp;h=300']</value>
+      <webElementGuid>940d57f6-2356-4ce8-aa5e-93291973432d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

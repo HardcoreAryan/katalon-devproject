@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logintest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0d67c23-ed8c-4632-8a2a-228740f10153</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc3d5d7e-955c-4fdf-a5ec-f0bf9d8bc17f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8173588a-503c-404b-9032-02256366856f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john@buyer.com'</defaultValue>
+      <description></description>
+      <id>dc3d5d7e-955c-4fdf-a5ec-f0bf9d8bc17f</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>8173588a-503c-404b-9032-02256366856f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

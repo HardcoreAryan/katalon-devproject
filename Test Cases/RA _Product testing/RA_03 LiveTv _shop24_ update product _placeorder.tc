@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RA_03 LiveTv _shop24_ update product _placeorder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70009ef4-a0eb-477b-82db-f076136fb6f2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99875700-ee7e-40e0-9fe4-a11e7f2be56f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c89f5bf-aebc-4590-bbcd-539a2abce04f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john@buyer.com'</defaultValue>
+      <description></description>
+      <id>99875700-ee7e-40e0-9fe4-a11e7f2be56f</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newspaper@1'</defaultValue>
+      <description></description>
+      <id>7c89f5bf-aebc-4590-bbcd-539a2abce04f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

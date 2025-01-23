@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RA-01 ,02placeorder by buy order and fastbuy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a14d4e92-f47f-42cd-91b2-4a19d6a5d2e1</testSuiteGuid>
+   <testCaseLink>
+      <guid>1a48435f-cefe-4c67-92f7-e937e5f01bfc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RA _Product testing/RA-01 live tv place order by buy order</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d3d34c36-79e9-4245-bd69-d670db3f624d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2c2e62c2-59e8-4c5d-ad96-4c6636dc8c80</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a061539a-0cc6-46f5-862a-23b229fc0190</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RA _Product testing/RA-02 LIVETV_place order by _fastbuy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aabebbaa-9576-485e-ae91-a6537932e67f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fef5f5cb-1b0d-4927-9a15-0410334bb678</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

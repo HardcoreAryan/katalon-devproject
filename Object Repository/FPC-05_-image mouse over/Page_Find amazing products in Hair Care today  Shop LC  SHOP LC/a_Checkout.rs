@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Checkout</name>
+   <tag></tag>
+   <elementGuidId>b0a1d800-8308-455d-91e7-314e4d4c4c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-white.checkout-btn.checkout-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Checkout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7f7a4f34-8dcc-4b27-8f03-eadbed5ab5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Checkout-Login?cartType=normalproducts</value>
+      <webElementGuid>02333311-68e6-4f96-a53c-3b1973fff37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Checkout-Login?cartType=normalproducts</value>
+      <webElementGuid>6a3fd733-826e-406e-a214-544542ff4472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-white checkout-btn checkout-login</value>
+      <webElementGuid>19763301-6326-4ce5-8354-4bb06c839dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb3308b1-bf78-42a4-b19d-f56efb144d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Checkout
+                    </value>
+      <webElementGuid>f64cebac-8b15-4416-bfb3-6a41bd630a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sticky-top show-cart-popover&quot;]/div[@class=&quot;page&quot;]/header[1]/nav[@class=&quot;nav-header&quot;]/div[@class=&quot;fixed-top stickyHeader&quot;]/div[@class=&quot;container-orignal-LS container header spacing-sm&quot;]/div[@class=&quot;row align-items-center header-nav&quot;]/div[@class=&quot;col-lg-5 col-md-6 col-7 pl-md-4 pr-xs-0&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;minicart text-center&quot;]/div[@class=&quot;popover popover-bottom show&quot;]/div[@class=&quot;container cart&quot;]/div[@class=&quot;minicart-main-info&quot;]/div[@class=&quot;minicart-subtotal&quot;]/div[@class=&quot;text-center d-flex justify-content-around&quot;]/a[@class=&quot;btn btn-white checkout-btn checkout-login&quot;]</value>
+      <webElementGuid>c9eb68a1-8f39-4a74-8fee-b4fd8c31e9d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/following::a[1]</value>
+      <webElementGuid>2676c169-732b-4744-a2b8-33293e0ffe03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Sub total non BP + 1st EMI + S &amp; H + Taxes)'])[1]/following::a[2]</value>
+      <webElementGuid>fa90fd85-81ee-47a0-9c15-f38cba689f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Cart is Reserved For'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f4ef6be-363c-4466-870d-6efa85e51e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::a[1]</value>
+      <webElementGuid>bfc01792-73ff-405e-8c7b-6aa77e03c77e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkout']/parent::*</value>
+      <webElementGuid>0e51dbd3-70ca-44a2-8df0-dda20d4b1f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Checkout-Login?cartType=normalproducts')]</value>
+      <webElementGuid>2bcc1a9d-9473-4aad-8294-b2150740e536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>aada57f8-44f1-42ed-bca5-019987a03062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Checkout-Login?cartType=normalproducts' and (text() = '
+                        
+                        Checkout
+                    ' or . = '
+                        
+                        Checkout
+                    ')]</value>
+      <webElementGuid>7e282071-8041-46fd-9715-e6c7bd39d845</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

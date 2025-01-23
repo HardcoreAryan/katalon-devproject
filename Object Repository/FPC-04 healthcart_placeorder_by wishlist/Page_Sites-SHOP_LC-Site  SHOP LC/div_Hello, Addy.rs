@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello, Addy</name>
+   <tag></tag>
+   <elementGuidId>63a85d71-380b-4920-aa2f-b2806966b42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.wl-text-ownername</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div/div[2]/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hello, Addy!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17bb514f-32ba-41e7-b2b6-9eadb1dd120f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wl-text-ownername</value>
+      <webElementGuid>46a752e4-e165-432a-84a1-45fb56c6c874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, Addy!</value>
+      <webElementGuid>2b32011a-680a-4f2b-8755-b85e9468450e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;col-12 acc-container&quot;]/div[@class=&quot;acc-card&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 facet-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;wishlistsData col-lg-6 col-md-6 col-12&quot;]/div[@class=&quot;wishlistsData-username&quot;]/div[@class=&quot;wl-text-ownername&quot;]</value>
+      <webElementGuid>e4ef936d-c3a4-495e-a663-0e0035afcff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>c699f92b-4006-43cc-8233-d4d368e5d297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Account / Wishlist'])[1]/following::div[8]</value>
+      <webElementGuid>32674e79-9d51-40ea-b4a6-223fc87df707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LC'])[1]/following::div[8]</value>
+      <webElementGuid>79f24ad2-dc56-42fb-8450-26dc91fedc02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello,']/parent::*</value>
+      <webElementGuid>26cc130d-8185-4f2e-bc25-6abb7cd3644e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>3f98f9b7-2861-4913-9efe-0e6cff568230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hello, Addy!' or . = 'Hello, Addy!')]</value>
+      <webElementGuid>8b822102-3760-4fcf-8a6c-28890710039c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

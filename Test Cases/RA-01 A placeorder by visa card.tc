@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RA-01 A placeorder by visa card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03022a93-c0df-4f2a-8d2a-72df9248f5ed</testCaseGuid>
+</TestCaseEntity>
