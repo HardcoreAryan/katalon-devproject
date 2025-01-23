@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>FPC -01 __heathcart __Add to cart__place order</name>
+   <name>FPC -01.heathcart .Add to cart.place order</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

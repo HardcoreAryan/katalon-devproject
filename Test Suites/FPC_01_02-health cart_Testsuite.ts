@@ -15,7 +15,7 @@
       <guid>c1d1c562-e407-4b6f-8115-f77ae6ca2c76</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PDL test/FPC -01 __heathcart __Add to cart__place order</testCaseId>
+      <testCaseId>Test Cases/PDL test/FPC -01.heathcart .Add to cart.place order</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
