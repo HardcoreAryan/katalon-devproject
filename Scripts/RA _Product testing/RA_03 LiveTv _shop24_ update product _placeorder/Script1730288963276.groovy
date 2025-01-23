@@ -37,20 +37,20 @@ WebUI.click(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page
 
 WebUI.waitForPageLoad(10)
 
-WebUI.click(findTestObject('Object Repository/RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_Shop Last 24 Hours'))
+WebUI.click(findTestObject('Object Repository/RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/a_Shop Last 24 Hours'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/select_Select Option                       _a3cdd1'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/select_Select Option                       _a3cdd1'), 
     '7327846', true)
 
-WebUI.waitForElementClickable(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_ADD TO CART'), 
+WebUI.waitForElementClickable(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/a_ADD TO CART'), 
     10)
 
-WebUI.click(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_ADD TO CART'))
+WebUI.click(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/a_ADD TO CART'))
 
-WebUI.verifyElementPresent(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_Checkout'), 
+WebUI.verifyElementPresent(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/a_Checkout'), 
     10)
 
-WebUI.click(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_Checkout'))
+WebUI.click(findTestObject('RA-03 Livetv_shop24_ update product _placeorder/Page_Jewelry on TV Watch Shop LC Live/a_Checkout'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/RA-03 Livetv_shop24_ update product _placeorder/Page_Checkout  SHOP LC/h1_payment  order'), 
     8)

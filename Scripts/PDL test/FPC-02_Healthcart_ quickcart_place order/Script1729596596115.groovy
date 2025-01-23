@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Shop LC Online Shopping Channel Jewel_/span_Login  Join Us'))
 
 WebUI.delay(10)
 
@@ -37,40 +37,40 @@ WebUI.setText(findTestObject('Object Repository/FPC-02 quikcart_place order/Page
 
 WebUI.click(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Login  SHOP LC/button_LOG IN'))
 
-WebUI.mouseOver(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Health  Beauty'))
+WebUI.mouseOver(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Shop LC Online Shopping Channel Jewel_/a_Health  Beauty'))
 
-WebUI.click(findTestObject('FPC-02 quikcart_place order/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Health  Beauty'))
-
-WebUI.delay(10)
-
-WebUI.waitForElementPresent(findTestObject('FPC-01_health cart place order/Page_Find amazing products in Health  Beauty today  Shop LC  SHOP LC/img_Refine by Style fragrance_tile-image productTileImage'), 
-    10)
-
-WebUI.mouseOver(findTestObject('FPC-01_health cart place order/Page_Find amazing products in Health  Beauty today  Shop LC  SHOP LC/img_Refine by Style fragrance_tile-image productTileImage'))
+WebUI.click(findTestObject('FPC-02 quikcart_place order/Page_Shop LC Online Shopping Channel Jewel_/a_Health  Beauty'))
 
 WebUI.delay(10)
 
-WebUI.waitForElementPresent(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_QUICK VIEW'), 
+WebUI.waitForElementPresent(findTestObject('FPC-01_health cart place order/Page_Find amazing products in Health Beauty/img_Refine by Style fragrance_tile-image productTileImage'), 
     10)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_QUICK VIEW'))
+WebUI.mouseOver(findTestObject('FPC-01_health cart place order/Page_Find amazing products in Health Beauty/img_Refine by Style fragrance_tile-image productTileImage'))
 
-WebUI.doubleClick(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_QUICK VIEW'), 
+WebUI.delay(10)
+
+WebUI.waitForElementPresent(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_QUICK VIEW'), 
+    10)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_QUICK VIEW'))
+
+WebUI.doubleClick(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_QUICK VIEW'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
-WebUI.waitForElementVisible(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_ADD TO CART'), 
+WebUI.waitForElementVisible(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_ADD TO CART'), 
     10)
 
-WebUI.verifyElementClickable(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_ADD TO CART'))
+WebUI.verifyElementClickable(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_ADD TO CART'))
 
-WebUI.click(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/span_ADD TO CART'))
+WebUI.click(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/span_ADD TO CART'))
 
-WebUI.waitForElementVisible(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/a_View Cart'), 
+WebUI.waitForElementVisible(findTestObject('FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/a_View Cart'), 
     10)
 
-WebUI.click(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Find amazing products in Health  Beaut_c97146/a_View Cart'))
+WebUI.click(findTestObject('Object Repository/FPC-02 quikcart_place order/Page_Find amazing products in HealthBeauty/a_View Cart'))
 
 WebUI.delay(10)
 

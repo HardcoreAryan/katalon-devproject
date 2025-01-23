@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/logintestcase/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/logintestcase/Page_Shop LC Online Shopping Channel Jewel/span_Login  Join Us'))
 
 WebUI.setText(findTestObject('Object Repository/logintestcase/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'), 
     Email)

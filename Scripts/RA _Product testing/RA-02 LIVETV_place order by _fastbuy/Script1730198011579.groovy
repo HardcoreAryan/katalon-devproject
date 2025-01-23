@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Shop LC Online Shopping Channel Jewel/span_Login  Join Us'))
 
 WebUI.setText(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'), 
     Email)
@@ -35,34 +35,34 @@ WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast 
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Live TV'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Shop LC Online Shopping Channel Jewel/a_Live TV'))
 
-WebUI.verifyElementClickable(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/span_FAST BUY'))
+WebUI.verifyElementClickable(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/span_FAST BUY'))
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/span_FAST BUY'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/span_FAST BUY'))
 
-WebUI.waitForElementPresent(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/h4_ADD TO LIVE TV CART'), 
+WebUI.waitForElementPresent(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/h4_ADD TO LIVE TV CART'), 
     8)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/h4_ADD TO LIVE TV CART'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/h4_ADD TO LIVE TV CART'))
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/button_OK'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/button_OK'))
 
 WebUI.delay(10)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/select_Select optionGoldtone ( 119.99 )Rose_df4d96'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/select_Select optionGoldtone ( 119.99 )Rose_df4d96'), 
     'Rosetone', true)
 
-WebUI.verifyElementClickable(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/span_FAST BUY'))
+WebUI.verifyElementClickable(findTestObject('RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/span_FAST BUY'))
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/span_FAST BUY'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/span_FAST BUY'))
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/h4_WHAT IS FAST BUY'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/h4_WHAT IS FAST BUY'), 
     10)
 
-WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_Activate Fast Buy'))
+WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Jewelry on TV Watch Shop LC Live/a_Activate Fast Buy'))
 
 WebUI.click(findTestObject('Object Repository/RA-02 _ LIVETV_placeOrder by fast buy/Page_Sites-SHOP_LC-Site  SHOP LC/label_I have read and agree to the Terms an_943613'))
 

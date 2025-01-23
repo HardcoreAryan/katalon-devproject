@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Shop LC Online Shopping Channel Jewel/span_Login  Join Us'))
 
 WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'))
 
@@ -37,32 +37,32 @@ WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wi
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Health  Beauty'))
+WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Shop LC Online Shopping Channel Jewel/a_Health  Beauty'))
 
 WebUI.delay(10)
 
-WebUI.waitForElementPresent(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/i_Refine by Product Type Health_fa fa-square-o'), 
+WebUI.waitForElementPresent(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/i_Refine by Product Type Health_fa fa-square-o'), 
     20)
 
-WebUI.waitForElementClickable(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/i_Refine by Product Type Health_fa fa-square-o'), 
+WebUI.waitForElementClickable(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/i_Refine by Product Type Health_fa fa-square-o'), 
     20)
 
-WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/i_Refine by Product Type Health_fa fa-square-o'))
+WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/i_Refine by Product Type Health_fa fa-square-o'))
 
 WebUI.delay(50)
 
-WebUI.waitForElementPresent(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/a_2'), 
+WebUI.waitForElementPresent(findTestObject('FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/a_2'), 
     10)
 
-WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/a_2'))
+WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/a_2'))
 
 WebUI.delay(10)
 
-WebUI.mouseOver(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/div_QUICK VIEWADD TO CARTFAST BUY          _f99dd3'))
+WebUI.mouseOver(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/div_QUICK VIEWADD TO CARTFAST BUY          _f99dd3'))
 
-WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/img_Remove filter Currently Refined by Prod_19686a'))
+WebUI.doubleClick(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/img_Remove filter Currently Refined by Prod_19686a'))
 
-WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health  Beaut_c97146/span_Wishlist'))
+WebUI.click(findTestObject('Object Repository/FPC-04 healthcart_placeorder_by wishlist/Page_Find amazing products in Health Beaut/span_Wishlist'))
 
 WebUI.delay(20)
 

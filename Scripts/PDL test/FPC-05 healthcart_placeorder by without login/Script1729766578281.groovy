@@ -25,12 +25,12 @@ WebUI.maximizeWindow()
 
 WebUI.delay(10)
 
-WebUI.mouseOver(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Health  Beauty'))
+WebUI.mouseOver(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Shop LC Online Shopping Channel Jewel/a_Health  Beauty'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Find amazing products in Health  Beaut_c97146/a_Hair Care'), 
+WebUI.waitForElementVisible(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Find amazing products in Health Beauty/a_Hair Care'), 
     10)
 
-WebUI.click(findTestObject('FPC-05 healthcart _place order by without login/Page_Find amazing products in Health  Beaut_c97146/a_Hair Care'))
+WebUI.click(findTestObject('FPC-05 healthcart _place order by without login/Page_Find amazing products in Health Beauty/a_Hair Care'))
 
 WebUI.delay(10)
 
@@ -48,10 +48,10 @@ WebUI.verifyElementClickable(findTestObject('FPC-05_-image mouse over/Page_Find 
 
 WebUI.doubleClick(findTestObject('FPC-05_-image mouse over/Page_Find amazing products in Hair Care today  Shop LC  SHOP LC/a_ADD TO CART'))
 
-WebUI.waitForElementVisible(findTestObject('FPC-05 healthcart _place order by without login/Page_Find amazing products in Hair Care tod_ebc774/a_Checkout'), 
+WebUI.waitForElementVisible(findTestObject('FPC-05 healthcart _place order by without login/Page_Find amazing products in Hair Care tod/a_Checkout'), 
     2)
 
-WebUI.click(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Find amazing products in Hair Care tod_ebc774/a_Checkout'))
+WebUI.click(findTestObject('Object Repository/FPC-05 healthcart _place order by without login/Page_Find amazing products in Hair Care tod/a_Checkout'))
 
 WebUI.delay(10)
 

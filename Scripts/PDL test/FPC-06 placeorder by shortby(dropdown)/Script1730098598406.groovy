@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Shop LC Online Shopping Channel Jewel/span_Login  Join Us'))
 
 WebUI.setText(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'), 
     Email)
@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Object Repository/FPC-06 place order by shortby(dr
 
 WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Login  SHOP LC/button_LOG IN'))
 
-WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Health  Beauty'))
+WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Shop LC Online Shopping Channel Jewel/a_Health  Beauty'))
 
 WebUI.delay(10)
 
@@ -57,21 +57,21 @@ for (WebElement e1 : value) {
 
 WebUI.delay(10)
 
-//WebUI.doubleClick(findTestObject('dropdown/Page_Find amazing products in Health  Beauty today  Shop LC  SHOP LC/select_Relevance                                                                Top Rated                                                                Price (lowest first)'))
-//WebUI.selectOptionByValue(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health  Beaut_c97146/select_Relevance                           _8069d7'), 
+//WebUI.doubleClick(findTestObject('dropdown/Page_Find amazing products in Health Beauty/select_Relevance                                                                Top Rated                                                                Price (lowest first)'))
+//WebUI.selectOptionByValue(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/select_Relevance                           _8069d7'), 
 //   'https://dev01.shoplc.com/on/demandware.store/Sites-SHOP_LC-Site/en_US/Search-ShowAjax?cgid=health-and-beauty&srule=discount&start=0&sz=60', 
 //   true)
-WebUI.mouseOver(findTestObject('FPC-06 dropdwon image/Page_Find amazing products in Health  Beauty today  Shop LC  SHOP LC/img_Refine by Style fragrance_tile-image productTileImage'))
+WebUI.mouseOver(findTestObject('FPC-06 dropdwon image/Page_Find amazing products in Health Beauty 1/img_Refine by Style fragrance_tile-image productTileImage'))
 
-WebUI.verifyElementPresent(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health  Beaut_c97146/a_ADD TO CART'), 
+WebUI.verifyElementPresent(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/a_ADD TO CART'), 
     10)
 
-WebUI.doubleClick(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health  Beaut_c97146/a_ADD TO CART'))
+WebUI.doubleClick(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/a_ADD TO CART'))
 
-WebUI.waitForElementVisible(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health  Beaut_c97146/a_Checkout'), 
+WebUI.waitForElementVisible(findTestObject('FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/a_Checkout'), 
     8)
 
-WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health  Beaut_c97146/a_Checkout'))
+WebUI.click(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Find amazing products in Health Beaut/a_Checkout'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/FPC-06 place order by shortby(dropdown)/Page_Checkout  SHOP LC/h1_payment  order'), 
     8)

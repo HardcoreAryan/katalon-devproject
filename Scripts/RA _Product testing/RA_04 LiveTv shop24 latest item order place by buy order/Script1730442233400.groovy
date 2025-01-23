@@ -23,38 +23,38 @@ WebUI.navigateToUrl('https://dev01.shoplc.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/span_Login  Join Us'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Shop LC Online Shopping Channel Jewel/span_Login  Join Us'))
 
-WebUI.setText(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'), 
+WebUI.setText(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Login  SHOP LC/input_Email or Phone Number_loginEmail'), 
     'tautomation240@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Login  SHOP LC/input_Password  PIN_loginPassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Login  SHOP LC/input_Password  PIN_loginPassword'), 
     'glYEcQkLJWvzy3WH5ZLEFw==')
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Login  SHOP LC/button_LOG IN'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Login  SHOP LC/button_LOG IN'))
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Shop LC  Online Shopping Channel Jewel_6abe2b/a_Live TV'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Shop LC Online Shopping Channel Jewel/a_Live TV'))
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/img_Next auction is loading_selectedProductImage'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/img_Next auction is loading_selectedProductImage'))
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/svg'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/svg'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/h4_ADD TO LIVE TV CART'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/h4_ADD TO LIVE TV CART'), 
     10)
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/button_OK'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/button_OK'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/select_Select optionSIZE 0 ( 138.99 )Apple _98bd9c'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/select_Select optionSIZE 0 ( 138.99 )Apple _98bd9c'), 
     'Amethyst', true)
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Jewelry on TV  Watch Shop LC Live Stre_1713f8/a_Buy Now'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Jewelry on TV Watch Shop LC Live Stre/a_Buy Now'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Checkout  SHOP LC/h1_payment  order'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Checkout  SHOP LC/h1_payment  order'), 
     10)
 
-WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Checkout  SHOP LC/button_Place Order'))
+WebUI.click(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Checkout  SHOP LC/button_Place Order'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace by buy order/Page_Sites-SHOP_LC-Site  SHOP LC/h2_ORDER CONFIRMATION'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/RA_04 LIVE TV shop 24 latest item orderplace/Page_Sites-SHOP_LC-Site  SHOP LC/h2_ORDER CONFIRMATION'), 
     10)
 
 WebUI.closeBrowser()
